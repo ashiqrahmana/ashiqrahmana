@@ -14,6 +14,9 @@
 <a href="mailto:ashiq.rahman@nyu.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
+### View My Portfolio
+<a href = "https://ashiqrahmana.github.io/ashiqrahman.github.io/index.html" <img src="(https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)"></a>
+
 ### 🛠 Tech Stack
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
@@ -28,5 +31,3 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=ashiqrahmana&color=blueviolet&&style=for-the-badge">
 </p>
-
-<p><a href="https://ashiqrahmana.github.io/ashiqrahman.github.io/index.html" class="icon brands fa-twitter"><span class="label">Portfolio</span></a></p>
