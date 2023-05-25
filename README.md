@@ -15,8 +15,8 @@
 </p>
 
 ### View My Portfolio
-<p>
-<a href="https://ashiqrahmana.github.io/ashiqrahman.github.io/index.html" <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+<p align="left">
+<a href="https://ashiqrahmana.github.io/ashiqrahman.github.io/index.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 </p>
 
 ### 🛠 Tech Stack
